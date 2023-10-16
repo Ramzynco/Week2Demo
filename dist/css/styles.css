@@ -11736,4 +11736,6 @@ html {
 .projectLink{
   text-decoration: none;
   cursor: pointer;
+  color: inherit;
 }
+
